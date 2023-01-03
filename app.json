@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "figma_android",
+    "slug": "figma_android",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "android": {
+    "package": "figma_android"
+}
+}
